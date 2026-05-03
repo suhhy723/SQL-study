@@ -99,7 +99,3 @@ SELECT mem_id, mem_name FROM member;
 - [SQLD 시험 안내 (데이터산업진흥원)](https://www.dataq.or.kr)
 
 ---
-
-<p align="center">
-  📖 꾸준히, 천천히, 확실하게!
-</p>
